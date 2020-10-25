@@ -1,2 +1,3 @@
 initial code for feature 1.0
 adding feature 1.1
+adding feature 1.2
